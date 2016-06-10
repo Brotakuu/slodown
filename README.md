@@ -2,6 +2,8 @@
 
 # Slodown is the ultimate user input rendering pipeline.
 
+[![Join the chat at https://gitter.im/Brotakuu/slodown](https://badges.gitter.im/Brotakuu/slodown.svg)](https://gitter.im/Brotakuu/slodown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/hmans/slodown.png?branch=master)](https://travis-ci.org/hmans/slodown) [![Gem Version](https://badge.fury.io/rb/slodown.png)](http://badge.fury.io/rb/slodown)
 
 **I love Markdown. I love syntax highlighting. I love oEmbed. And last but not least, I love whitelist-based HTML sanitizing. Slodown rolls all of these into one, and then some.**
